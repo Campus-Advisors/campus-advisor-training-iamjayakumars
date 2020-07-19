@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #Name Jayakumar Sadhasivam (iamjayakumars)
 
+=======
+**Name : Jayakumar Sadhasivam**
+>>>>>>> 9dd555e8900227e21357f5c8cc2f6edbef9c7b6c
 # Module 2.2 Assignment
 
 In this exercise you are going to make a change to this document on GitHub. As mentioned in the video, you can edit documents
